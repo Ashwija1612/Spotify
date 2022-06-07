@@ -1,0 +1,61 @@
+p{
+  font-size: 14px;
+  color: #262626;
+}
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: black;
+}
+.main-heading{
+  color: #fff;
+  font-size: 26px;
+}
+.underline{
+  height: 04px;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.footer a{
+  color: #fff;
+  text-decoration: none !important;
+}
+.footer a:hover{
+  color: gray;
+}
+.carousel-item.active {
+  height: 100%;
+}
+.carousel-inner {
+  height: 100%;
+}
+.accordion-button.collapsed{
+  color: #5FE85D;
+  background-color: black;
+  box-shadow: inset 0 -1px 0 #29008a;
+}
+.accordion-body{
+  background-color: black;
+}
+.card-title{
+  background-color: #5FE85D;
+}
+.card-body{
+  background-color: black;
+}
+.btn{
+  background-color: #8070FF;
+}
+.py-4{
+  background-color: #5FE85D
+}
+.cardcontact{
+  background-color: #8070FF
+}
+.btn{
+  background-color: #8070FF
+}
+.file-field{
+  font-size: 14px;
+}
